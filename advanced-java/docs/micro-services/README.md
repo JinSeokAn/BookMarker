@@ -1,11 +1,11 @@
 # 마이크로서비스 아키텍처
 
 -   [마이크로서비스 아키텍처 전체 장은 추가로 새롭게 업데이트될 내용이며, 추후 업데이트될 예정입니다. 독자 여러분의 참여로 보완해 주시기 바랍니다.](https://github.com/doocs/advanced-java)
--   [마이크로서비스 아키텍처에 대한 설명](/docs/micro-services/microservices-introduction.md)
--   [단일체 아키텍처에서 마이크로서비스 아키텍처로의 마이그레이션](/docs/micro-services/migrating-from-a-monolithic-architecture-to-a-microservices-architecture.md)
--   [마이크로서비스의 이벤트 주도 데이터 관리](/docs/micro-services/event-driven-data-management-for-microservices.md)
--   [마이크로서비스 배포 전략 선택](/docs/micro-services/choose-microservice-deployment-strategy.md)
--   [마이크로서비스 아키텍처의 장단점](/docs/micro-services/advantages-and-disadvantages-of-microservice.md)
+-   [마이크로서비스 아키텍처에 대한 설명](/advanced-java/docs/micro-services/microservices-introduction.md)
+-   [단일체 아키텍처에서 마이크로서비스 아키텍처로의 마이그레이션](/advanced-java/docs/micro-services/migrating-from-a-monolithic-architecture-to-a-microservices-architecture.md)
+-   [마이크로서비스의 이벤트 주도 데이터 관리](/advanced-java/docs/micro-services/event-driven-data-management-for-microservices.md)
+-   [마이크로서비스 배포 전략 선택](/advanced-java/docs/micro-services/choose-microservice-deployment-strategy.md)
+-   [마이크로서비스 아키텍처의 장단점](/advanced-java/docs/micro-services/advantages-and-disadvantages-of-microservice.md)
 
 
 ## Spring Cloud 마이크로서비스 아키텍처
